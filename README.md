@@ -1,1 +1,4 @@
-# impressora-termica
+# java -Cinfigurando uma impresora termica 
+tutorial para configurar impressora termica de cupom fiscal usando a linguagem java
+## Autor
+jhoseline
